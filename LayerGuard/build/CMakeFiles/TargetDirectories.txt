@@ -1,3 +1,0 @@
-C:/Dev/LayerGuard/build/CMakeFiles/LayerGuard.dir
-C:/Dev/LayerGuard/build/CMakeFiles/edit_cache.dir
-C:/Dev/LayerGuard/build/CMakeFiles/rebuild_cache.dir
